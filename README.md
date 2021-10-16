@@ -1,4 +1,5 @@
 # Assignment 1 - :computer: Simple shell implementation
+**you can view and download this as a :bookmark_tabs: [PDF](https://github.com/alexu-os/assignment1/blob/main/Assignment_1_-_Simple_shell_implementation.pdf) as well**
 
 It is required to implement a Unix shell program. Your shell must support the following:
 
