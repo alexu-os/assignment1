@@ -1,4 +1,4 @@
-# Assignment 1 - Simple shell implementation
+# Assignment 1 - :computer: Simple shell implementation
 
 It is required to implement a Unix shell program. Your shell must support the following:
 
@@ -62,7 +62,3 @@ It is required to implement a Unix shell program. Your shell must support the fo
    - Students will work individually.
    - You may talk together on the algorithms or functions being used, but are allowed to look at anybody’s code.
    - Revise the academic integrity note found on the class web page
-
----
-
-[Lab 1 - Simple Shell Commands and fork Process](../readme.md)
