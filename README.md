@@ -61,5 +61,5 @@ It is required to implement a Unix shell program. Your shell must support the fo
 
    - Languages used: C/C++.
    - Students will work individually.
-   - You may talk together on the algorithms or functions being used, but are allowed to look at anybody’s code.
+   - You may talk together on the algorithms or functions being used, but are **NOT** allowed to look at anybody’s code.
    - Revise the academic integrity note found on the class web page
